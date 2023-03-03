@@ -98,11 +98,11 @@
 
   
 
-<br/>  <div align="center">
+<br/>  
+
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=shirzady1934&&style=flat-square)  
-  
-  </div>
+
   
 
 <br/>  
