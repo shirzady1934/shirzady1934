@@ -88,7 +88,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shirzady1934&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shirzady1934&show_icons=true&count_private=true&theme=monokai&hide_border=true" align="center" /></div>  
 
 <br/>  
 
