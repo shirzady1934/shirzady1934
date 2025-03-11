@@ -1,13 +1,6 @@
 ### <div align="center">I'm Nima, an MSc student in Artificial intelligence at the Sharif University of Technology</div>  
   
 
-- 🌱 I’m currently working on Multimodal Deep Learning models  
-  
-
-- ⚡ Interested In NLP, Computer Vision, Linux, Cloud Computing  
-  
-
-- ❓ Ask me about anything related to Linux and related technologies  
   
 
 <br/>  
